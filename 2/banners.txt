@@ -1,0 +1,2 @@
+0;banners/1.png;http://ya.ru/;10
+1;banners/2.png;http://bitrix.ru/;2
